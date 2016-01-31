@@ -1,16 +1,13 @@
-# Sentiment-Analysis-on-Movie-Reviews
+# Sentiment-Analysis-on-Movie-Reviews-From-IMDb 
 
-This is a Natural Language Processing task that takes in the datasets from NLTK trainer and based on the reviews classifies it as positive or negative. 
+This is a Natural Language Processing task that takes in the datasets from IMDb and based on the reviews, classifies it as positive or negative. 
 
 Includes following steps:
 
     Identifying the structure of the text
     Pre-processing the data
-    Defining a dictionary to store sentiments of positive and negative types
-    Tagging
-    Mathematical calculation for sentiment judgement
-    Using incrementors and decrementors dictionary
-    Checking for double negatives
+    Defining a dictionary/map to store sentiments of positive and negative types
+    Machine Learning
     
 
 Ref.:

@@ -3,6 +3,7 @@
 This is a Natural Language Processing task that takes in the datasets from NLTK trainer and based on the reviews classifies it as positive or negative. 
 
 Includes following steps:
+
     Identifying the structure of the text
     Pre-processing the data
     Defining a dictionary to store sentiments of positive and negative types
